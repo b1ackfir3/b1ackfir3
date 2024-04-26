@@ -1,5 +1,10 @@
 ### Hi there 👋
+- 🔭 I’m currently working on saving the world
+- 🌱 I’m currently learning life
+- 👯 I’m looking to collaborate on fixing my broken heart
+-  💬 Ask me about anything
 
+Thanks for visting my profile  😄 
 <!--
 **b1ackfir3/b1ackfir3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
