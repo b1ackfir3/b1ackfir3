@@ -31,7 +31,7 @@ Thanks for visting my profile  😄
 ##
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/b1ackfir3/b1ackfir3/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 ##
 
