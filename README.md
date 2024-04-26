@@ -27,6 +27,14 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 Thanks for visting my profile  😄 
+
+##
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+##
+
 <!--
 **b1ackfir3/b1ackfir3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
